@@ -1,2 +1,0 @@
-# auto-login
-mu-plugins
